@@ -170,3 +170,6 @@ SHRP_STATUSBAR_LEFT_PADDING := 52
 SHRP_EXPRESS := true
 SHRP_EXPRESS_USE_DATA := true
 SHRP_DARK := true
+SHRP_INTERNAL := /sdcard
+SHRP_EXTERNAL := /external_sd
+SHRP_OTG := /usb_otg
