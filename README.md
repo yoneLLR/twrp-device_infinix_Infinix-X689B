@@ -1,1 +1,1 @@
-# OrangeFox Recovery tree for the Infinix Hot 10s ( Infinix-X689B )
+## OrangeFox Recovery tree for Infinix Hot 10s ( Infinix-X689B )
