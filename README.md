@@ -1,1 +1,1 @@
-# TeamWin Recovery tree for the Infinix Hot 10s ( Infinix-X689B )
+## TeamWin Recovery tree for Infinix Hot 10s ( Infinix-X689B )
